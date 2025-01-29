@@ -1,0 +1,133 @@
+  138  git clone https://github.com/vverma97/P2.git
+  139  rm /root/Desktop/host/P2/Problem_1/*
+  140  rm /root/Desktop/host/P2/Problem1/*
+  141  touch remove_files.sh
+  142  code remove_files.sh
+  143  cd P2
+  144  touch /root/Desktop/host/P2/history2.txt
+  145  history | tail -n 8 >> history2.txt
+  161  chmod +x /root/Desktop/host/P2/odd_even.sh
+  162  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  163  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  164  ./odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  165  root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  166  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  167  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  168  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  169  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  170  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  171  chmod +x odd_even.sh
+  172  chmod +x /root/Desktop/host/P2/odd_even.sh
+  173  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  174  chmod +x /root/Desktop/host/P2/odd_even.sh
+  175  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  176  chmod +x /root/Desktop/host/P2/odd_even.sh
+  177  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  178  chmod +x /root/Desktop/host/P2/odd_even.sh
+  179  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  180  chmod +x /root/Desktop/host/P2/odd_even.sh
+  181  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  182  chmod +x /root/Desktop/host/P2/odd_even.sh
+  183  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  184  chmod +x /root/Desktop/host/P2/odd_even.sh
+  185  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  186  chmod +x /root/Desktop/host/P2/odd_even.sh
+  187  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  188  chmod +x /root/Desktop/host/P2/odd_even.sh
+  189  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  190  chmod +x /root/Desktop/host/P2/odd_even.sh
+  191  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  192  chmod +x /root/Desktop/host/P2/odd_even.sh
+  193  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  194  mv /root/Desktop/host/P2/odd_even.sh .
+  195  chmod +x odd_even.sh
+  196  ./odd_even.sh
+  197  chmod +x odd_even.sh
+  198  ./odd_even.sh
+  199  chmod +x odd_even.sh
+  200  ./odd_even.sh
+  201  chmod +x odd_even.sh
+  202  ./odd_even.sh
+  203  chmod +x odd_even.sh
+  204  ./odd_even.sh
+  205  code odd_even.sh
+  206  chmod +x odd_even.sh
+  207  ./odd_even.sh
+  208  history | tail -n 50 >> history2.txt
+  209  cd /root/Desktop/host/P2
+  210  history | tail -n 50 >> history2.txt
+  137  cd /root/Desktop/host
+  138  git clone https://github.com/vverma97/P2.git
+  139  rm /root/Desktop/host/P2/Problem_1/*
+  140  rm /root/Desktop/host/P2/Problem1/*
+  141  touch remove_files.sh
+  142  code remove_files.sh
+  143  cd P2
+  144  touch /root/Desktop/host/P2/history2.txt
+  145  history | tail -n 8 >> history2.txt
+  146  chmod +x remove_files.sh
+  147  mv /root/Desktop/host/remove_files.sh /root/Desktop/host/P2
+  148  chmod +x remove_files.sh
+  149  cd /electron_scattering_data
+  150  cd /root/Desktop/host/P2/Problem1/electron_scattering_data
+  151  cd /root/Desktop/host/P2
+  152  touch odd_even.sh
+  153  code odd_even.sh
+  154  cd Problem1/electron_scattering_data
+  155  mkdir odd
+  156  mkdir even
+  157  chmod +x odd_even.sh
+  158  chmod +x /root/Desktop/host/P2/odd_even.sh
+  159  ./odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data odd even
+  160  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data odd even
+  161  chmod +x /root/Desktop/host/P2/odd_even.sh
+  162  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  163  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  164  ./odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  165  root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  166  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  167  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  168  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  169  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  170  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  171  chmod +x odd_even.sh
+  172  chmod +x /root/Desktop/host/P2/odd_even.sh
+  173  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  174  chmod +x /root/Desktop/host/P2/odd_even.sh
+  175  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  176  chmod +x /root/Desktop/host/P2/odd_even.sh
+  177  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  178  chmod +x /root/Desktop/host/P2/odd_even.sh
+  179  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  180  chmod +x /root/Desktop/host/P2/odd_even.sh
+  181  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  182  chmod +x /root/Desktop/host/P2/odd_even.sh
+  183  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  184  chmod +x /root/Desktop/host/P2/odd_even.sh
+  185  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  186  chmod +x /root/Desktop/host/P2/odd_even.sh
+  187  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  188  chmod +x /root/Desktop/host/P2/odd_even.sh
+  189  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  190  chmod +x /root/Desktop/host/P2/odd_even.sh
+  191  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  192  chmod +x /root/Desktop/host/P2/odd_even.sh
+  193  /root/Desktop/host/P2/odd_even.sh /root/Desktop/host/P2/Problem1/electron_scattering_data /root/Desktop/host/P2/Problem1/electron_scattering_data/odd /root/Desktop/host/P2/Problem1/electron_scattering_data/even
+  194  mv /root/Desktop/host/P2/odd_even.sh .
+  195  chmod +x odd_even.sh
+  196  ./odd_even.sh
+  197  chmod +x odd_even.sh
+  198  ./odd_even.sh
+  199  chmod +x odd_even.sh
+  200  ./odd_even.sh
+  201  chmod +x odd_even.sh
+  202  ./odd_even.sh
+  203  chmod +x odd_even.sh
+  204  ./odd_even.sh
+  205  code odd_even.sh
+  206  chmod +x odd_even.sh
+  207  ./odd_even.sh
+  208  history | tail -n 50 >> history2.txt
+  209  cd /root/Desktop/host/P2
+  210  history | tail -n 50 >> history2.txt
+  211  history | tail -n 75 >> history2.txt
